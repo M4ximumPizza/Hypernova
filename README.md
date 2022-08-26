@@ -15,5 +15,3 @@ into a better format to run it into a faster, more reliable use.
 Will not be released to the public.
 
 Formated by M4ximumpizza Wed, Aug 25, 2022, 4:00PM PST
-
-Mojang ©2009-2022. "Minecraft" is a trademark of Mojang Synergies AB
