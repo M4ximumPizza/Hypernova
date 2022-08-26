@@ -3,7 +3,7 @@
 
 # Wiki
 
-The Wiki can be found [Here](ComingSoon)
+The Wiki can be found [Here](https://github.com/M4ximumPizza/Hypernova/wiki/Hypernova)
 
 <p align="center">
   <img src="ComingSoon" alt="Coming Soon">
@@ -14,11 +14,4 @@ into a better format to run it into a faster, more reliable use.
 
 Will not be released to the public.
 
-# WIki
-
-
-
-### WIki
 Formated by M4ximumpizza Wed, Aug 25, 2022, 4:00PM PST
-
-Working on.....
