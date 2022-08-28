@@ -14,7 +14,7 @@ The Wiki can be found [Here](https://github.com/M4ximumPizza/Hypernova/wiki/Hype
 The Wiki can be found [Here](https://github.com/M4ximumPizza/Hypernova/wiki/Hypernova)
 
 <p align="center">
-  <img src="1200px-Mojang_Studios_logo_2020.svg.png" alt="Coming Soon">
+  <img src="https://lh3.googleusercontent.com/uMA1GInrmO5d_ugj-mCj7rimqA5OXdunOueFgcEAPhtifRZbp7B6wnRfngwltKbyo4r3cIB-ehUg0VNhjUN6" alt="Coming Soon">
 </p>
 
 Hypernova is a program that will be used by the Mojang team that will work with the 1.20 update to decypher the code
