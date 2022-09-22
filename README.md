@@ -1,5 +1,4 @@
 # Hypernova
-[![total dowloads](ComingSoon)]
 
 # Wiki
 
