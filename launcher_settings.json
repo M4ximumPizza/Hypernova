@@ -1,0 +1,11 @@
+{
+  "channel" : "beta",
+  "customChannels" : [],
+  "deviceId" : 18055727868657145761,
+  "disableGPU" : true,
+  "formatVersion" : 0,
+  "locale" : "en-GB",
+  "productLibraryDir" : "C:\\Users\\LWAbe\\AppData\\Local\\Mojang\\products",
+  "useArm64JreIfSupported" : false,
+  "version" : 1
+}

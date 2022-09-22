@@ -1,0 +1,24 @@
+{
+  "semanticVersion": "1.3.1",
+  "updateInfo": {
+    "en_us": "Iris 1.3.1 has released, with full PBR support and bug fixes! Download it at: {link}",
+    "pl_pl": "Iris 1.3.1 zosta? wydany, z pe?nym wsparciem PBR i poprawkami b??dów! Pobierz go pod adresem: {link}",
+    "tr_tr": "Iris 1.3.1, tam PBR deste?i ve hata düzeltmeleriyle birlikte yay?nland?! Bu adresten indirebilirsiniz: {link}",
+    "es_mx": "¡Iris 1.3.1 está ahora disponible con soporte para PBR y múltiples arreglos de errores! Descárgalo en: {link}",
+    "es_es": "¡Iris 1.3.1 está ahora disponible con soporte para PBR y múltiples arreglos de errores! Descárgalo en: {link}",
+    "de_de": "Iris 1.3.1 ist mit vollständiger PBR-Unterstützung und Fehlerbehebungen erschienen! Lade die neuste Version auf {link} herunter",
+    "fr_fr": "Iris 1.3.1 est désormais disponible, avec l'ajout du PBR et de multiples corrections de bugs! Disponible en téléchargement sur ce lien : {link}",
+    "pt_br": "O Iris 1.3.1 foi lançado, com suporte completo ao PBR e correção de bugs! Faça o download em: {link}",
+    "af_za": "Iris 1.3.1 het met vollige PBR-ondersteuning en foutoplossings vrygestel! Laai dit af by {link}",
+    "cs_cz": "Je dostupná aktualizace Iris 1.3.1, s plnou podporou PBR a opravami chyb. Stáhn?te si jí zde: {link}",
+    "lol_us": "Iriz 3.1 iz out!)!, Wif ful pbrrr support an bug fixez! Scratch it of her!!: {link}",
+    "fa_ir": "Iris 1.3.1 ?? ???????? ???? ?? PBR ? ??? ??? ?? ????? ??! ?? {link} ?????? ????",
+    "nl_be": "Iris 1.3.1 is uitgebracht, met volledige PBR-ondersteuning en bugfixes! Download het op: {link}",
+    "nl_nl": "Iris 1.3.1 is uitgebracht, met volledige PBR-ondersteuning en bugfixes! Download het op: {link}",
+    "ru_ru": "??????? Iris 1.3.1, ?  ?????????? PBR ? ????????????? ??????! ?????? ??? ??????????: {link}",
+    "it_it": "Iris 1.3.1 è stato rilasciato, con il supporto alle texture PBR e bug fix! Scaricalo a: {link}"
+},
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/iris",
+  "installer": "https://irisshaders.net"
+}
