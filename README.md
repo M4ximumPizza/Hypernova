@@ -1,6 +1,8 @@
-# Hypernova
+# Welcome to Hypernova
+
 Hypernova is a program that will be used by the Mojang team that will work with the 1.20 update to decypher the code
-into a better format to run it into a faster, more reliable use. 
+into a better format to run it into a faster, more reliable use. This project will take several months as perhaps 6-12 month project.
+
 
 # Wiki
 
