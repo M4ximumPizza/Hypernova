@@ -1,10 +1,10 @@
 # Welcome to Hypernova (Almost Finished)
 
-Hypernova could be a project by the Mojang team that's for the coming 1.20 update to decypher the code into a higher robust|an improved} format to run it into a faster, more reliable use.  This project can take many months as maybe 3-6 month project. engaged on some final preperations before being foreign in Minecraft this weekend.
+Hypernova is a project by the Mojang team and the upcoming 1.20 update aims to decode the code into a better format for faster and more reliable usage. This project will probably take months as a 3-6 month project. I'm working on some final preparations before importing into Minecraft this weekend.
 
 ## What is the Hypernova Project
 
-Hypernova is a project that was instructed by Michael Weilbacher for M4ximumPizza to make on Aug 25th 2022 but was started one day later on Aug 26th 2022 at 4:00PM PST. These are what Hypernova is fixing/improving.
+Hypernova is a project described by Michael Weilbacher of M4ximumPizza on Aug 25, 2022, but started a day later on Aug 26, 2022 at 16:00 PST. These will be fixed/improved by Hypernova.
 
      Rewrote the Minecraft commands from C++ to Java.
      Fixed many bugs such as data and loading errors with the code.
@@ -13,7 +13,7 @@ Hypernova is a project that was instructed by Michael Weilbacher for M4ximumPizz
 
 ### Command Properties 
 
-The codes before the project were written in C++ that is pretty compact however not fast. thus once this project was started, I rewrote it from C++ to java which appearance a lot of organized/faster use. It took about one 1/2 months to rewrite with the just about one-hundred files that were fixed. It absolutely was finished on Nov fifth when it was foreign to github.
+The code before the project was written in C++ and is fairly compact but not fast. After this project started, I rewrote it from C++ to Java. Java is much cleaner and faster to use. It took about half a month to repair and rewrite nearly 100 files. Fully finalized outside of Github on November 5th.
 
 ### Bug Fixes
 
