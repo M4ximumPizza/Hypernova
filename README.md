@@ -1,6 +1,6 @@
 # Welcome to Hypernova (Almost Finished)
 
-Hypernova is a project by the Mojang team that is for the upcoming 1.20 update to decypher the code into a better format to run it into a faster, more reliable use.  This project will take several months as perhaps 3-6 month project.
+Hypernova is a project by the Mojang team that is for the upcoming 1.20 update to decypher the code into a better format to run it into a faster, more reliable use.  This project will take several months as perhaps 3-6 month project. Working on some final preperations before being imported in Minecraft this weekend.
 
 ## What is the Hypernova Project
 
@@ -21,10 +21,6 @@ The bug fixes is what took the longest because some were super complex to fix su
 
 ### Mojang Website
 I just fixed several bugs with it and updated the looks/outdated parts of it.
-
-### Everything else
-
-Working on some final preperations before being fixnished this weekend.
 
 This project will 'NOT' be released to the public as a download.
 
