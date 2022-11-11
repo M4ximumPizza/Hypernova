@@ -10,7 +10,6 @@ Hypernova is a program that will be used by the Mojang team that will work with 
 This project will 'NOT' be released to the public as a download.
 
      Rewrote the Minecraft commands from C++ to Java code.
-     Created a Minecraft block/entity properties page.
      Fixed many bugs with the code format and glitches.
      3 different coding languages of Java, C++, and JSON format.
 
