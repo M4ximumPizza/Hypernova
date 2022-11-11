@@ -17,7 +17,7 @@ The codes before the project were written in C++ which is pretty compact but not
 
 ### Bug Fixes
 
-The bug fixes is what took the longest because some were super complex to fix such as DataFixs(https://github.com/M4ximumPizza/Hypernova/blob/master/Fixes/schema/Datafixers.java).
+The bug fixes is what took the longest because some were super complex to fix such as [DataFix](https://github.com/M4ximumPizza/Hypernova/blob/master/Fixes/schema/Datafixers.java).
 
 ### Everything else
 
