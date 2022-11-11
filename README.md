@@ -1,6 +1,6 @@
 # Welcome to Hypernova (Almost Finished)
 
-Hypernova is a project by the Mojang team that is for the upcoming 1.20 update to decypher the code into a better format to run it into a faster, more reliable use.  This project will take several months as perhaps 3-6 month project. Working on some final preperations before being imported in Minecraft this weekend.
+Hypernova could be a project by the Mojang team that's for the coming 1.20 update to decypher the code into a higher robust|an improved} format to run it into a faster, more reliable use.  This project can take many months as maybe 3-6 month project. engaged on some final preperations before being foreign in Minecraft this weekend.
 
 ## What is the Hypernova Project
 
@@ -13,7 +13,7 @@ Hypernova is a project that was instructed by Michael Weilbacher for M4ximumPizz
 
 ### Command Properties 
 
-The codes before the project were written in C++ which is pretty compact but not fast. So when this project was started, I rewrote it from C++ to java which looks more organized/faster use. It took about 1 1/2 months to rewrite with the almost one-hundred files that were fixed. It was finished on November 5th when it was imported to github. 
+The codes before the project were written in C++ that is pretty compact however not fast. thus once this project was started, I rewrote it from C++ to java which appearance a lot of organized/faster use. It took about one 1/2 months to rewrite with the just about one-hundred files that were fixed. It absolutely was finished on Nov fifth when it was foreign to github.
 
 ### Bug Fixes
 
