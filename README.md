@@ -1,7 +1,7 @@
 # Welcome to Hypernova (Almost Finished)
 
 Hypernova is a program that will be used by the Mojang team that will work with the 1.20 update to decypher the code
-into a better format to run it into a faster, more reliable use. This project will take several months as perhaps 6-12 month project.
+into a better format to run it into a faster, more reliable use. This project will take several months as perhaps 3-6 month project.
 
 # What is the Hypernova Project
 
@@ -20,6 +20,6 @@ C++ Terminal was made on October 6th 2022 which will run different commands for 
 
 ### Everything else
 
-Next i need to do the other task/
+Working on some final preperations before being done this weekend.
 
 Mojang ©2009-2022. "Minecraft" is a trademark of Mojang Synergies AB
