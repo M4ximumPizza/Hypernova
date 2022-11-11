@@ -13,15 +13,18 @@ Hypernova is a project that was instructed by Michael Weilbacher for M4ximumPizz
 
 ### Command Properties 
 
-The codes before the project were written in C++ which is pretty compact but not fast. So when this project was started, I rewrote it from C++ to java which looks more organized/faster use. It took about 1 1/2 months to rewrite with the almost one-hundred files that were fixed.
+The codes before the project were written in C++ which is pretty compact but not fast. So when this project was started, I rewrote it from C++ to java which looks more organized/faster use. It took about 1 1/2 months to rewrite with the almost one-hundred files that were fixed. It was finished on November 5th when it was imported to github. 
 
 ### Bug Fixes
 
-The bug fixes is what took the longest because some were super complex to fix such as [DataFix](https://github.com/M4ximumPizza/Hypernova/blob/master/Fixes/schema/Datafixers.java).
+The bug fixes is what took the longest because some were super complex to fix such as [DataFix](https://github.com/M4ximumPizza/Hypernova/blob/master/Fixes/schema/Datafixers.java) and so on from there. But it was finished on November 11th 2022.
+
+### Mojang Website
+I just fixed several bugs with it and updated the looks/outdated parts of it.
 
 ### Everything else
 
-Working on some final preperations before being done this weekend. 
+Working on some final preperations before being fixnished this weekend.
 
 This project will 'NOT' be released to the public as a download.
 
